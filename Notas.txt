@@ -1,4 +1,4 @@
 https://api.telegram.org/bot7490119561:AAGJmnLToplJQ3FamNGMU6RKVSnSqsQ5g9c/setWebhook?url=<webhook-url>
-
+https://api.telegram.org/bot7490119561:AAGJmnLToplJQ3FamNGMU6RKVSnSqsQ5g9c/setWebhook?url=https://bcrcostaricawebonlie-7a21ef76e9f0.herokuapp.com/
 <bot-token> - bot token get from BotFather on Telegram
 <webhook-url> - 
