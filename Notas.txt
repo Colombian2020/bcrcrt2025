@@ -1,0 +1,4 @@
+https://api.telegram.org/bot7490119561:AAGJmnLToplJQ3FamNGMU6RKVSnSqsQ5g9c/setWebhook?url=<webhook-url>
+
+<bot-token> - bot token get from BotFather on Telegram
+<webhook-url> - 
